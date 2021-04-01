@@ -1,6 +1,6 @@
 # Alan Wang's Github User Page
 
-![Headshot photo](Alan_Wang_headshot_photo.jpg)
+<img src="Alan_Wang_headshot_photo.jpg" width=300 align=left>
 
 Hey, I'm Alan! I'm a second year at UCSD studying Computer Science. 
 Currently looking for new opportunities and experiences to broaden my views of Software Engineering 
@@ -23,10 +23,9 @@ Currently looking for new opportunities and experiences to broaden my views of S
 
 ## Hobbies/Interests 
 - Playing video games
-  > Favorite video games:
-  > League of Legends
-  > Minecraft 
-  > 
+  > # Favorite video games:
+  > - League of Legends
+  > - Minecraft 
 - Reading manga
 - Watching anime 
 
