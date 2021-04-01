@@ -23,7 +23,7 @@ Currently looking for new opportunities and experiences to broaden my views of S
 
 ## Hobbies/Interests 
 - Playing video games
-  > -Favorite video games:
+  > - Favorite video games:
   >     - League of Legends
   >     - Minecraft 
 - Reading manga
