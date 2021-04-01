@@ -18,14 +18,11 @@ Currently looking for new opportunities and experiences to broaden my views of S
   ```Python
   print("SSSnakesss")
   ```
-- **ARM Assembly** 
-- ```assembly
-- mov r7, #1
-- ```
 - **R** 
   ```R
   myString <- "RRadical!"
   ```
+- **ARM Assembly** 
 
 ## Hobbies/Interests 
 - Playing video games
