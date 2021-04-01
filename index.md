@@ -19,7 +19,13 @@ Currently looking for new opportunities and experiences to broaden my views of S
   print("SSSnakesss")
   ```
 - **ARM Assembly** 
+- ```asm
+- mov r7, #1
+- ```
 - **R** 
+  ```R
+  myString <- "RRadical!"
+  ```
 
 ## Hobbies/Interests 
 - Playing video games
