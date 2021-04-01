@@ -8,11 +8,11 @@ Currently looking for new opportunities and experiences to broaden my views of S
 ## Coding Experience
 - **Java** 
   ```Java
-  System.out.println("Hello world!")
+  System.out.println("Hello world!");
   ```
 - **C/C++**
   ```C
-  printf("Good morning")
+  printf("Good morning");
   ```
 - **Python** 
   ```Python
@@ -23,7 +23,7 @@ Currently looking for new opportunities and experiences to broaden my views of S
 
 ## Hobbies/Interests 
 - Playing video games
-  > ### Favorite video games:
+  > **Favorite video games:**
   > - League of Legends
   > - Minecraft 
 - Reading manga
