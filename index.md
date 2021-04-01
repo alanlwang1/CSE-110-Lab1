@@ -19,7 +19,7 @@ Currently looking for new opportunities and experiences to broaden my views of S
   print("SSSnakesss")
   ```
 - **ARM Assembly** 
-- ```asm
+- ```assembly
 - mov r7, #1
 - ```
 - **R** 
