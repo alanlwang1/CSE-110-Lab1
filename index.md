@@ -26,15 +26,15 @@ Currently looking for new opportunities and experiences to broaden my views of S
 
 ## Hobbies/Interests 
 - Playing video games
-  > - Favorite video games:
-  >     - League of Legends
-  >     - Minecraft 
+>Favorite video games:
+>    - League of Legends
+>    - Minecraft 
 - Reading manga
 - Watching anime 
-  >My top 3 favorite anime:
-  >    1. Mob Psycho 100
-  >    2. Death Note
-  >    3. Yu-Gi-Oh! VRAINS
+>My top 3 favorite anime:
+>    1. Mob Psycho 100
+>    2. Death Note
+>    3. Yu-Gi-Oh! VRAINS
 
 ## Future Goals 
 - [ ] Learn Javascript 
